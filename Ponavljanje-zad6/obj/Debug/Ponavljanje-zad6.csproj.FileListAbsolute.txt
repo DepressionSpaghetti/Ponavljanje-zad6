@@ -1,0 +1,16 @@
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.exe.config
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.exe
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.pdb
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.exe
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.pdb
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.exe.config
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.exe
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\bin\Debug\Ponavljanje-zad6.pdb
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.exe
+C:\Users\piero\Documents\School\4.d\NiOP\Ponavljanje-zad6\Ponavljanje-zad6\obj\Debug\Ponavljanje-zad6.pdb
